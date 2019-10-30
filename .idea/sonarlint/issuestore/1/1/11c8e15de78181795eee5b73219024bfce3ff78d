@@ -1,0 +1,3 @@
+
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ä“èÕ8ÍÿûÛ-
+¯%squid:RedundantThrowsDeclarationCheck)"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(…©–×8êÆİ-

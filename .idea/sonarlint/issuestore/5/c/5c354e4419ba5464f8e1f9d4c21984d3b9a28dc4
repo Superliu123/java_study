@@ -1,0 +1,7 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÓÌÜÙ8àÛõ¯Û-
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8ıËæ¯Û-
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(‹Øèşÿÿÿÿ8îëÉ¯Û-
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(›°ËÀıÿÿÿÿ8‰™Î¯Û-

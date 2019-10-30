@@ -1,0 +1,11 @@
+
+dsquid:S3078$"AUse an "AtomicInteger" for this field; its operations are atomic.(…кТ…ыяяяя8ђМўУЭ-
+Ysquid:S26965"6Make the enclosing method "static" or remove this set.(…кТ…ыяяяя8Џ±ЈУЭ-
+ksquid:UselessImportCheck"@Remove this unused import 'java.util.concurrent.CountDownLatch'.(¤ѓф§8вЩ™УЭ-
+Ysquid:S2696$"6Make the enclosing method "static" or remove this set.(…кТ…ыяяяя8ђМўУЭ-
+Ї%squid:RedundantThrowsDeclarationCheck)"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ў»пЭ8ЫоџУЭ-
+ґ%squid:RedundantThrowsDeclarationCheck1"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ЋоњДъяяяя8Гл УЭ-
+Ysquid:S2696-"6Make the enclosing method "static" or remove this set.(…кТ…ыяяяя8Џ±ЈУЭ-
+dsquid:S3078-"AUse an "AtomicInteger" for this field; its operations are atomic.(…кТ…ыяяяя8Џ±ЈУЭ-
+ґ%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(§Ґ…Ыюяяяя8єЮљУЭ-
+dsquid:S30785"AUse an "AtomicInteger" for this field; its operations are atomic.(…кТ…ыяяяя8Џ±ЈУЭ-

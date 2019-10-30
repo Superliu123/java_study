@@ -1,0 +1,12 @@
+
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(‹şöÔşÿÿÿÿ8íšË¨Û-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ùØ ¦8ôµ½¬Û-
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ßßğ8íšË¨Û-
+usquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¡€ğûÿÿÿÿ8ÊÀ¢­Û-
+‚squid:S1149="_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ8ƒÉ©Û-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÄÈ“Œ8Î†Ñ¨Û-
+Hsquid:S3457M"%String contains no format specifiers.(‹şöÔşÿÿÿÿ8íšË¨Û-

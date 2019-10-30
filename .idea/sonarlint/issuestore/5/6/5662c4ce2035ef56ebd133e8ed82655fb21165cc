@@ -1,0 +1,15 @@
+
+Fsquid:S1604;"(Make this anonymous inner class a lambda(ÚØ•¹8ìÉ±÷Û-
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(–Êöô8ìÉ±÷Û-
+Jsquid:S1481:",Remove this unused "threads" local variable.(÷ ù¹8ìÉ±÷Û-
+Ksquid:S1604A"(Make this anonymous inner class a lambda(’¯Ì¢ùÿÿÿÿ8ìÉ±÷Û-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ßÁôÿ8ìÉ±÷Û-
+¯%squid:RedundantThrowsDeclarationCheck""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8ìÉ±÷Û-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±Âõ¼8Ê¸±÷Û-
+Ksquid:S1604G"(Make this anonymous inner class a lambda(â™½Àýÿÿÿÿ8ìÉ±÷Û-
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(·ŽÔØ8ìÉ±÷Û-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎÂÃ8ìÉ±÷Û-
+Ysquid:S1854:";Remove this useless assignment to local variable "threads".(÷ ù¹8ìÉ±÷Û-
