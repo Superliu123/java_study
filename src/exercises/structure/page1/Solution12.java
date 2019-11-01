@@ -1,4 +1,4 @@
-package exercises.structure;
+package exercises.structure.page1;
 
 /**
  * @description: 整数转罗马数字

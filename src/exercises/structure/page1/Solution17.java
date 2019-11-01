@@ -1,13 +1,4 @@
-/**
- * All rights Reserved, Designed By Suixingpay.
- *
- * @author liu_chao[zhou_chen2@suixingpay.com]
- * @date 2019-10-31 16:45
- * @version 01
- * @Copyright ©2019 Suixingpay. All rights reserved.
- * 注意：本内容仅限于随行付支付有限公司内部传阅，禁止外泄以及用于其他的商业用途。
- */
-package exercises.structure;
+package exercises.structure.page1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -39,6 +30,7 @@ public class Solution17 {
         return getList(s, new ArrayList<>(), "", 0);
     }
 
+    //递归算法优点耗时少，缺点内存占用大
     public List<String> getList(String[] s, List<String> list, String temp, int n) {
         if (n < s.length - 1) {
             char[] chars = s[n].toCharArray();

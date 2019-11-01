@@ -1,4 +1,4 @@
-package exercises.structure;
+package exercises.structure.page1;
 
 import java.util.Scanner;
 

@@ -1,17 +1,6 @@
-/**
- * All rights Reserved, Designed By Suixingpay.
- *
- * @author liu_chao[zhou_chen2@suixingpay.com]
- * @date 2019-10-31 15:02
- * @version 01
- * @Copyright ©2019 Suixingpay. All rights reserved.
- * 注意：本内容仅限于随行付支付有限公司内部传阅，禁止外泄以及用于其他的商业用途。
- */
-package exercises.structure;
+package exercises.structure.page1;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * @description: 给定一个数组返回三个数之和最接近目标值
