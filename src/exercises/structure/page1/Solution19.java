@@ -10,9 +10,9 @@ public class Solution19 {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode gen = new ListNode(-1);
         gen.next = head;
-        ListNode pre = gen;
-        ListNode first = head;
-        ListNode second = gen;
+        ListNode pre = gen;//最后指向指针2的next节点
+        ListNode first = head;//指针1
+        ListNode second = gen;//指针2
         int count = 1;
         while (first.next != null) {
             first = first.next;
@@ -39,6 +39,13 @@ public class Solution19 {
         three.next = four;
         two.next = three;
         head.next = two;
+        ListNode test = new ListNode(0);
+        test.next = head;
+        System.out.println(test);
+        ListNode thiz = test;
+        thiz = thiz.next;
+        System.out.println(test);
+        System.out.println(thiz);
         System.out.println(solution19.removeNthFromEnd(head, 2));
     }
 }

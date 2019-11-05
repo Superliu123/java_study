@@ -65,22 +65,3 @@ public class Solution2 {
     }
 
 }
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-
-    public String toString(){
-        ListNode listNode = next;
-        String s = val + "";
-        while( listNode != null){
-            s = s + "->" + listNode.val;
-            listNode = listNode.next;
-        }
-        return s;
-    }
-}
